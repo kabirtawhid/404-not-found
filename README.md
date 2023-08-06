@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="kabirtawhid-404-not-found.surge.sh">
+    <a href="https://kabirtawhid-404-not-found.surge.sh">
       Demo
     </a>
     <span> | </span>
