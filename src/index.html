@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="../dist/output.css" rel="stylesheet" />
   </head>
-  <body class="mx-[77px] h-screen pt-[40px] flex flex-col justify-between">
+  <body
+    class="mx-[24px] md:mx-[77px] pt-[20px] md:pt-[40px] max-md:min-h-screen md:h-screen flex flex-col md:justify-between"
+  >
     <header>
       <h3 class="font-['Inconsolata'] text-[24px] tracking-[-1.92px]">
         404 NOT FOUND
@@ -14,21 +16,29 @@
     </header>
 
     <main>
-      <section class="flex h-full">
-        <div class="w-1/2">
-          <img class="w-9/12" src="./assets/Scarecrow.png" alt="" />
+      <section class="md:flex h-full">
+        <div class="md:w-1/2 mt-[64px]">
+          <img
+            class="w-10/12 m-auto md:w-9/12"
+            src="./assets/Scarecrow.png"
+            alt=""
+          />
         </div>
-        <div class="w-1/2 font-mono flex flex-col justify-between">
-          <h1 class="font-bold text-[54px] tracking-[-2.24px]">
+        <div class="mt-[60px] md:w-1/2 font-mono flex flex-col justify-between">
+          <h1
+            class="font-bold max-md:text-center text-[35px] md:text-[54px] tracking-[-2.24px]"
+          >
             I have bad news for you
           </h1>
-          <p class="text-[20px] tracking-[-.84px]">
+          <p
+            class="text-base max-md:mt-[20px] max-md:text-center md:text-[20px] tracking-[-.84px]"
+          >
             The Page you are looking <br />
             for might be removed or is <br />
             temporarily unavailable
           </p>
           <button
-            class="mt-[20px] w-fit bg-[#333] text-white px-[40px] py-[21px] tracking-[-.49px] font-bold text-[14px] font-mono"
+            class="mt-[30px] md:mt-[20px] max-md:mx-auto w-fit bg-[#333] text-white px-[40px] py-[21px] tracking-[-.49px] font-bold text-[14px] font-mono"
             type=""
           >
             BACK TO HOMEPAGE
@@ -37,9 +47,9 @@
       </section>
     </main>
 
-    <footer>
+    <footer class="max-md:grow flex items-end justify-center pb-[20px]">
       <h3
-        class="font-['Montserrat'] mb-3 text-[#BDBDBD] text-sm font-medium text-center"
+        class="font-['Montserrat'] max-md:mt-[50px] text-[#BDBDBD] text-sm font-medium text-center"
       >
         created by <b>kabirtawhid</b> - devChallanges.io
       </h3>
