@@ -39,7 +39,7 @@
 ![Desktop View](./desktop-view.png)
 ![Mobile View](./mobile-view.png)
 
-Demo Website is here [kabirtawhid-404-not-found.surge.sh](kabirtawhid-404-not-found.surge.sh)
+Demo Website is here [https://kabirtawhid-404-not-found.surge.sh](https://kabirtawhid-404-not-found.surge.sh)
 
 ### Built With
 
@@ -61,4 +61,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@kabirtawhid](https://{github.com/kabirtawhid})
+- GitHub [@kabirtawhid](https://github.com/kabirtawhid)
