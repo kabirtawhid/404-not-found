@@ -36,7 +36,12 @@
 
 ## Overview
 
+### Desktop View
+
 ![Desktop View](./desktop-view.png)
+
+### Mobile View
+
 ![Mobile View](./mobile-view.png)
 
 Demo Website is here [https://kabirtawhid-404-not-found.surge.sh](https://kabirtawhid-404-not-found.surge.sh)
